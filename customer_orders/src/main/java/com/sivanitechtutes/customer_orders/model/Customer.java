@@ -60,7 +60,7 @@ public class Customer {
    /*public static void main(String[] args) {
         Customer customer1 = new Customer(1, "Ravi", "Ravi@gmail.com", 123456789L, new ArrayList<>());
         Customer customer2 = new Customer(2, "Riya", "Riya@gmail.com", 234567891L, new ArrayList<>());
-        Customer customer3 = new Customer(3, "Teja", "Teja@gmail.com", 345678912L, new ArrayList<>());
+        Customer customer3 = new Customer(3, "sivani", "sivani@gmail.com", 345678912L, new ArrayList<>());
         log.info("customer-1:{}, \ncustomer-2:{}, \ncustomer-3:{}", customer1, customer2, customer3);
     }*/
 
