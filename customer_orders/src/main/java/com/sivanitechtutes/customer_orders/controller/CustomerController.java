@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * @author Teja K
+ * @author Sivani
  */
 @RestController
 @RequestMapping("/api/customers")

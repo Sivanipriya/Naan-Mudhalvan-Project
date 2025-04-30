@@ -4,7 +4,7 @@ import com.sivanitechtutes.customer_orders.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
- * @author Teja K
+ * @author Sivani
  */
 public interface OrderRepository extends JpaRepository<Order, Long> {
 }

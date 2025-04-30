@@ -5,7 +5,7 @@ import jakarta.persistence.*;
 import lombok.*;
 
 /**
- * @author Teja K
+ * @author Sivani
  */
 
 @Entity

@@ -1,7 +1,7 @@
 package com.sivanitechtutes.customer_orders.model;
 
 /**
- * @author Teja K
+ * @author Sivani
  */
 public class RegisterRequest {
     private String username;

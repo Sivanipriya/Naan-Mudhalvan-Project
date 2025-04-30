@@ -1,7 +1,7 @@
 package com.sivanitechtutes.customer_orders.enums;
 
 /**
- * @author Teja K
+ * @author Sivani
  */
 public enum Role {
     ADMIN,

@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 import java.util.Collections;
 
 /**
- * @author Teja K
+ * @author Sivani
  */
 @Service
 public class UserService implements UserDetailsService {

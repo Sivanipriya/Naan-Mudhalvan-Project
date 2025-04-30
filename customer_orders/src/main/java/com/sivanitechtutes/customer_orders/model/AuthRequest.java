@@ -3,7 +3,7 @@ package com.sivanitechtutes.customer_orders.model;
 import lombok.*;
 
 /**
- * @author Teja K
+ * @author Sivani
  */
 
 
